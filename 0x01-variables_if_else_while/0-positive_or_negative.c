@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - A program assigning a number to a variable each time the program  is executed
+ * main - A program assigning a number to a variable
  *
  * Return: 0 (success)
  */
