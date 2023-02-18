@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - entry point
+ * main - Entry Point
  * Return: Always 0 (success)
  */
 
@@ -16,10 +16,11 @@ int main(void)
 	{
 	putchar(d);
 	if (d != '9')
-	}
+	{
 	putchar(',');
 	putchar(' ');
+	}
+	}
 	putchar('\n');
 	return (0);
-
 }
